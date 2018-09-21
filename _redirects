@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://competent-euclid-d58e0d.netlify.com/* http://ammyda.libbesson.com/:splat 301!
